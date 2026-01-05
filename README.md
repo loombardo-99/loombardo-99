@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/fernando-lombardo-junior-4a9b722a3/" target="_blank"><img
       src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="LinkedIn"/></a>
-  <a href="https://loombardo-99.github.io/my-portfolio/" target="_blank"><img
+  <a href="https://loombardo-99.github.io/dev.fernando/#" target="_blank"><img
       src="https://img.shields.io/badge/Portfólio-607D8B?style=for-the-badge&logo=firefox&logoColor=white"
       alt="Portfólio"/></a>
 </p>
